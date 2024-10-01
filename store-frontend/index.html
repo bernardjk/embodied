@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UCLA Store</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>UCLA Store</h1>
+        <a href="cart.html" id="cart-link" class="cart-link">Cart (0)</a>
+    </header>
+
+    <main>
+        <div class="filter-container">
+            <label for="category-filter">Filter by Category:</label>
+            <select id="category-filter" onchange="filterProducts()">
+                <option value="All">All Categories</option>
+            </select>
+        </div>
+        <section id="products"></section>
+        <div id="pagination"></div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 UCLA Store</p>
+    </footer>
+
+    <script src="scripts.js"></script>
+</body>
+</html>
