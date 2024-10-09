@@ -1,0 +1,2186 @@
+[
+    {
+        "name": "Parking 5",
+        "coordinates": {
+            "latitude": 34.0741952,
+            "longitude": -118.4429499
+        }
+    },
+    {
+        "name": "Jacaranda Court",
+        "coordinates": {
+            "latitude": 34.0627916,
+            "longitude": -118.4514757
+        }
+    },
+    {
+        "name": "Magnolia Court",
+        "coordinates": {
+            "latitude": 34.0636767,
+            "longitude": -118.4505725
+        }
+    },
+    {
+        "name": "Wilshire Federal Building",
+        "coordinates": {
+            "latitude": 34.0563567,
+            "longitude": -118.4485046
+        }
+    },
+    {
+        "name": "Sycamore Court",
+        "coordinates": {
+            "latitude": 34.0621107,
+            "longitude": -118.4492458
+        }
+    },
+    {
+        "name": "Olive Court",
+        "coordinates": {
+            "latitude": 34.0620236,
+            "longitude": -118.4507537
+        }
+    },
+    {
+        "name": "Marion Davies Children's Health Center",
+        "coordinates": {
+            "latitude": 34.0652095,
+            "longitude": -118.4424351
+        }
+    },
+    {
+        "name": "Reed Neurological Research Center",
+        "coordinates": {
+            "latitude": 34.0662362,
+            "longitude": -118.4447665
+        }
+    },
+    {
+        "name": "Semel Institute for Neuroscience and Human Behavior",
+        "coordinates": {
+            "latitude": 34.0658067,
+            "longitude": -118.4445391
+        }
+    },
+    {
+        "name": "Rehabilitation Building",
+        "coordinates": {
+            "latitude": 34.0607797,
+            "longitude": -118.4492406
+        }
+    },
+    {
+        "name": "West Medical Building",
+        "coordinates": {
+            "latitude": 34.0605312,
+            "longitude": -118.4478468
+        }
+    },
+    {
+        "name": "Science and Technology Research Building",
+        "coordinates": {
+            "latitude": 34.0607915,
+            "longitude": -118.4484583
+        }
+    },
+    {
+        "name": "Capital Programs Building",
+        "coordinates": {
+            "latitude": 34.0602124,
+            "longitude": -118.4484804
+        }
+    },
+    {
+        "name": "Alpha Epsilon Pi",
+        "coordinates": {
+            "latitude": 34.0661541,
+            "longitude": -118.4488537
+        }
+    },
+    {
+        "name": "Fisher House",
+        "coordinates": {
+            "latitude": 34.0496738,
+            "longitude": -118.450164
+        }
+    },
+    {
+        "name": "Brain Research Institute",
+        "coordinates": {
+            "latitude": 34.0662977,
+            "longitude": -118.4443067
+        }
+    },
+    {
+        "name": "Engineering VI",
+        "coordinates": {
+            "latitude": 34.0694767,
+            "longitude": -118.4443319
+        }
+    },
+    {
+        "name": "Gold Hall",
+        "coordinates": {
+            "latitude": 34.073639,
+            "longitude": -118.4438807
+        }
+    },
+    {
+        "name": "Factor Health Sciences Building",
+        "coordinates": {
+            "latitude": 34.0667546,
+            "longitude": -118.4420218
+        }
+    },
+    {
+        "name": "The Watermark",
+        "coordinates": {
+            "latitude": 34.0625858,
+            "longitude": -118.4430826
+        }
+    },
+    {
+        "name": "Gayley & Lindbrook Apartments",
+        "coordinates": {
+            "latitude": 34.0597271,
+            "longitude": -118.4456402
+        }
+    },
+    {
+        "name": "Geffen Academy",
+        "coordinates": {
+            "latitude": 34.0593499,
+            "longitude": -118.4468256
+        }
+    },
+    {
+        "name": "Cornell Hall",
+        "coordinates": {
+            "latitude": 34.073972,
+            "longitude": -118.4434162
+        }
+    },
+    {
+        "name": "Chevron",
+        "coordinates": {
+            "latitude": 34.063396,
+            "longitude": -118.4485674
+        }
+    },
+    {
+        "name": "Wilshire Center",
+        "coordinates": {
+            "latitude": 34.0581435,
+            "longitude": -118.4446692
+        }
+    },
+    {
+        "name": "Plaza la Reina",
+        "coordinates": {
+            "latitude": 34.0599765,
+            "longitude": -118.4423719
+        }
+    },
+    {
+        "name": "Murdock Plaza",
+        "coordinates": {
+            "latitude": 34.0583378,
+            "longitude": -118.4440657
+        }
+    },
+    {
+        "name": "Gayley Center",
+        "coordinates": {
+            "latitude": 34.059595,
+            "longitude": -118.4463889
+        }
+    },
+    {
+        "name": "Pi Kappa Phi",
+        "coordinates": {
+            "latitude": 34.0660766,
+            "longitude": -118.448021
+        }
+    },
+    {
+        "name": "UCLA Extension (UNEX) Admin",
+        "coordinates": {
+            "latitude": 34.0578715,
+            "longitude": -118.4459258
+        }
+    },
+    {
+        "name": "Entrepreneurs Hall",
+        "coordinates": {
+            "latitude": 34.0736398,
+            "longitude": -118.443368
+        }
+    },
+    {
+        "name": "Hilgard House Hotel",
+        "coordinates": {
+            "latitude": 34.0632015,
+            "longitude": -118.441744
+        }
+    },
+    {
+        "name": "Court of Sciences Student Center",
+        "coordinates": {
+            "latitude": 34.0682068,
+            "longitude": -118.4422214
+        }
+    },
+    {
+        "name": "Beta Theta Pi",
+        "coordinates": {
+            "latitude": 34.0685908,
+            "longitude": -118.4493849
+        }
+    },
+    {
+        "name": "The Tower",
+        "coordinates": {
+            "latitude": 34.0580462,
+            "longitude": -118.4450777
+        }
+    },
+    {
+        "name": "CVS Pharmacy",
+        "coordinates": {
+            "latitude": 34.0573266,
+            "longitude": -118.4425413
+        }
+    },
+    {
+        "name": "Straus Stadium",
+        "coordinates": {
+            "latitude": 34.0702998,
+            "longitude": -118.4484379
+        }
+    },
+    {
+        "name": "Weyburn Commons",
+        "coordinates": {
+            "latitude": 34.0615076,
+            "longitude": -118.4489009
+        }
+    },
+    {
+        "name": "The Paseo",
+        "coordinates": {
+            "latitude": 34.0613366,
+            "longitude": -118.4490362
+        }
+    },
+    {
+        "name": "Westwood Gateway",
+        "coordinates": {
+            "latitude": 34.0469114,
+            "longitude": -118.4451093
+        }
+    },
+    {
+        "name": "Kinross South",
+        "coordinates": {
+            "latitude": 34.0587298,
+            "longitude": -118.446407
+        }
+    },
+    {
+        "name": "Transit Operations Maintenance Yard",
+        "coordinates": {
+            "latitude": 34.059479,
+            "longitude": -118.4484311
+        }
+    },
+    {
+        "name": "KB Home",
+        "coordinates": {
+            "latitude": 34.0575234,
+            "longitude": -118.4471248
+        }
+    },
+    {
+        "name": "Oppenheimer Tower",
+        "coordinates": {
+            "latitude": 34.0585972,
+            "longitude": -118.442921
+        }
+    },
+    {
+        "name": "UCLA Blood & Platelet Center",
+        "coordinates": {
+            "latitude": 34.0610389,
+            "longitude": -118.4475785
+        }
+    },
+    {
+        "name": "UCLA Extension - Westwood Village Center",
+        "coordinates": {
+            "latitude": 34.06049,
+            "longitude": -118.4471104
+        }
+    },
+    {
+        "name": "Gayley Terrace",
+        "coordinates": {
+            "latitude": 34.062021,
+            "longitude": -118.448446
+        }
+    },
+    {
+        "name": "Village Terrace Condominiums",
+        "coordinates": {
+            "latitude": 34.0628316,
+            "longitude": -118.4489285
+        }
+    },
+    {
+        "name": "Northwood Apartments",
+        "coordinates": {
+            "latitude": 34.0645062,
+            "longitude": -118.4506248
+        }
+    },
+    {
+        "name": "UCLA Levering Terrace Apartments Student Housing",
+        "coordinates": {
+            "latitude": 34.0633349,
+            "longitude": -118.44943
+        }
+    },
+    {
+        "name": "Village Lofts",
+        "coordinates": {
+            "latitude": 34.0650109,
+            "longitude": -118.4505235
+        }
+    },
+    {
+        "name": "Lambda Chi Alpha",
+        "coordinates": {
+            "latitude": 34.0678433,
+            "longitude": -118.4491991
+        }
+    },
+    {
+        "name": "Phi Kappa Psi",
+        "coordinates": {
+            "latitude": 34.0676199,
+            "longitude": -118.4487975
+        }
+    },
+    {
+        "name": "Phi Kappa Sigma Fraternity",
+        "coordinates": {
+            "latitude": 34.0673282,
+            "longitude": -118.4493989
+        }
+    },
+    {
+        "name": "Sheats Apartments",
+        "coordinates": {
+            "latitude": 34.0679811,
+            "longitude": -118.4496592
+        }
+    },
+    {
+        "name": "Sigma Nu",
+        "coordinates": {
+            "latitude": 34.0680934,
+            "longitude": -118.4490354
+        }
+    },
+    {
+        "name": "Theta Xi Fraternity",
+        "coordinates": {
+            "latitude": 34.0674282,
+            "longitude": -118.4486568
+        }
+    },
+    {
+        "name": "Zeta Beta Theta",
+        "coordinates": {
+            "latitude": 34.0676423,
+            "longitude": -118.4492646
+        }
+    },
+    {
+        "name": "Strathmore Apartments",
+        "coordinates": {
+            "latitude": 34.0652172,
+            "longitude": -118.4511394
+        }
+    },
+    {
+        "name": "Strathmore Apartments",
+        "coordinates": {
+            "latitude": 34.0654315,
+            "longitude": -118.4511215
+        }
+    },
+    {
+        "name": "Strathmore Apartments",
+        "coordinates": {
+            "latitude": 34.0654071,
+            "longitude": -118.4509341
+        }
+    },
+    {
+        "name": "Strathmore Apartments",
+        "coordinates": {
+            "latitude": 34.0652071,
+            "longitude": -118.450957
+        }
+    },
+    {
+        "name": "Strathmore Regency Apartments",
+        "coordinates": {
+            "latitude": 34.06407,
+            "longitude": -118.4513155
+        }
+    },
+    {
+        "name": "Theta Chi",
+        "coordinates": {
+            "latitude": 34.0663855,
+            "longitude": -118.4478403
+        }
+    },
+    {
+        "name": "Delta Tau Delta",
+        "coordinates": {
+            "latitude": 34.0667338,
+            "longitude": -118.4480559
+        }
+    },
+    {
+        "name": "Delta Sigma Phi",
+        "coordinates": {
+            "latitude": 34.0670429,
+            "longitude": -118.4488724
+        }
+    },
+    {
+        "name": "Sigma Alpha Epsilon",
+        "coordinates": {
+            "latitude": 34.0665833,
+            "longitude": -118.4479093
+        }
+    },
+    {
+        "name": "Sigma Pi",
+        "coordinates": {
+            "latitude": 34.0671825,
+            "longitude": -118.4491084
+        }
+    },
+    {
+        "name": "School of Public Health",
+        "coordinates": {
+            "latitude": 34.0667124,
+            "longitude": -118.4435808
+        }
+    },
+    {
+        "name": "UCLA School of Dentistry",
+        "coordinates": {
+            "latitude": 34.066404,
+            "longitude": -118.4420279
+        }
+    },
+    {
+        "name": "Axiom Westwood",
+        "coordinates": {
+            "latitude": 34.0664989,
+            "longitude": -118.4543039
+        }
+    },
+    {
+        "name": "Triangle",
+        "coordinates": {
+            "latitude": 34.0678614,
+            "longitude": -118.4507056
+        }
+    },
+    {
+        "name": "The Nest",
+        "coordinates": {
+            "latitude": 34.0678498,
+            "longitude": -118.4517666
+        }
+    },
+    {
+        "name": "Alpha Gamma Omega",
+        "coordinates": {
+            "latitude": 34.0679834,
+            "longitude": -118.4508223
+        }
+    },
+    {
+        "name": "Theta Delta Chi",
+        "coordinates": {
+            "latitude": 34.0689876,
+            "longitude": -118.4502318
+        }
+    },
+    {
+        "name": "Sigma Phi Epsilon",
+        "coordinates": {
+            "latitude": 34.0681832,
+            "longitude": -118.4502969
+        }
+    },
+    {
+        "name": "Alpha Tau Omega",
+        "coordinates": {
+            "latitude": 34.0694577,
+            "longitude": -118.4511145
+        }
+    },
+    {
+        "name": "Phi Delta Theta",
+        "coordinates": {
+            "latitude": 34.0688842,
+            "longitude": -118.4499945
+        }
+    },
+    {
+        "name": "Sigma Chi",
+        "coordinates": {
+            "latitude": 34.0703552,
+            "longitude": -118.4525282
+        }
+    },
+    {
+        "name": "Drake Stadium Seating/Bleachers",
+        "coordinates": {
+            "latitude": 34.071981,
+            "longitude": -118.4490946
+        }
+    },
+    {
+        "name": "ExtraMile",
+        "coordinates": {
+            "latitude": 34.0498898,
+            "longitude": -118.4381328
+        }
+    },
+    {
+        "name": "The Westford",
+        "coordinates": {
+            "latitude": 34.0598579,
+            "longitude": -118.4381138
+        }
+    },
+    {
+        "name": "Sawtelle Veterans Chapel",
+        "coordinates": {
+            "latitude": 34.0551702,
+            "longitude": -118.4560442
+        }
+    },
+    {
+        "name": "James W. Wadsworth Building",
+        "coordinates": {
+            "latitude": 34.0526923,
+            "longitude": -118.4526378
+        }
+    },
+    {
+        "name": "Variety",
+        "coordinates": {
+            "latitude": 34.047479,
+            "longitude": -118.4459552
+        }
+    },
+    {
+        "name": "Century Wilshire",
+        "coordinates": {
+            "latitude": 34.0596782,
+            "longitude": -118.4386827
+        }
+    },
+    {
+        "name": "Kimpton Hotel Palomar Los Angeles - Beverly Hills - a Kimpton Hotel",
+        "coordinates": {
+            "latitude": 34.0600484,
+            "longitude": -118.4374067
+        }
+    },
+    {
+        "name": "Wilshire Victoria",
+        "coordinates": {
+            "latitude": 34.0603379,
+            "longitude": -118.4360048
+        }
+    },
+    {
+        "name": "Beverly Hills Porsche Service and Parts Center",
+        "coordinates": {
+            "latitude": 34.0493173,
+            "longitude": -118.4401563
+        }
+    },
+    {
+        "name": "Beverly Hills Porsche",
+        "coordinates": {
+            "latitude": 34.0486725,
+            "longitude": -118.4421225
+        }
+    },
+    {
+        "name": "Jack in the Box",
+        "coordinates": {
+            "latitude": 34.0490673,
+            "longitude": -118.4406374
+        }
+    },
+    {
+        "name": "Westside Medical Center",
+        "coordinates": {
+            "latitude": 34.0518354,
+            "longitude": -118.4383753
+        }
+    },
+    {
+        "name": "Wilshire Selby Towers",
+        "coordinates": {
+            "latitude": 34.0606608,
+            "longitude": -118.4384002
+        }
+    },
+    {
+        "name": "The Californian",
+        "coordinates": {
+            "latitude": 34.0593543,
+            "longitude": -118.4400916
+        }
+    },
+    {
+        "name": "Santa Monica Plaza",
+        "coordinates": {
+            "latitude": 34.0483884,
+            "longitude": -118.4430955
+        }
+    },
+    {
+        "name": "The Wilshire Villa",
+        "coordinates": {
+            "latitude": 34.058957,
+            "longitude": -118.4398848
+        }
+    },
+    {
+        "name": "1460 Westwood Blvd",
+        "coordinates": {
+            "latitude": 34.0543847,
+            "longitude": -118.440571
+        }
+    },
+    {
+        "name": "Midvale South",
+        "coordinates": {
+            "latitude": 34.0551178,
+            "longitude": -118.4424788
+        }
+    },
+    {
+        "name": "Fresh Corn Grill",
+        "coordinates": {
+            "latitude": 34.0576048,
+            "longitude": -118.442813
+        }
+    },
+    {
+        "name": "Nimoy Theater",
+        "coordinates": {
+            "latitude": 34.0577525,
+            "longitude": -118.4427689
+        }
+    },
+    {
+        "name": "99 Ranch Market",
+        "coordinates": {
+            "latitude": 34.0558988,
+            "longitude": -118.4417296
+        }
+    },
+    {
+        "name": "Patriot House",
+        "coordinates": {
+            "latitude": 34.048935,
+            "longitude": -118.451189
+        }
+    },
+    {
+        "name": "West L.A. Customer Service Center",
+        "coordinates": {
+            "latitude": 34.0521482,
+            "longitude": -118.4476284
+        }
+    },
+    {
+        "name": "Camden Town",
+        "coordinates": {
+            "latitude": 34.0443285,
+            "longitude": -118.4461556
+        }
+    },
+    {
+        "name": "Animal Speciality and Emergency Center",
+        "coordinates": {
+            "latitude": 34.0493583,
+            "longitude": -118.4462755
+        }
+    },
+    {
+        "name": "Tesla",
+        "coordinates": {
+            "latitude": 34.0475696,
+            "longitude": -118.4455161
+        }
+    },
+    {
+        "name": "Luskin Conference Center",
+        "coordinates": {
+            "latitude": 34.0693006,
+            "longitude": -118.4457598
+        }
+    },
+    {
+        "name": "Kappa Delta",
+        "coordinates": {
+            "latitude": 34.0662859,
+            "longitude": -118.4393484
+        }
+    },
+    {
+        "name": "Alpha Delta Pi",
+        "coordinates": {
+            "latitude": 34.0660421,
+            "longitude": -118.439441
+        }
+    },
+    {
+        "name": "Pi Beta Phi",
+        "coordinates": {
+            "latitude": 34.0678879,
+            "longitude": -118.4387637
+        }
+    },
+    {
+        "name": "Alpha Gamma Delta",
+        "coordinates": {
+            "latitude": 34.0688149,
+            "longitude": -118.4387468
+        }
+    },
+    {
+        "name": "Alpha Chi Omega",
+        "coordinates": {
+            "latitude": 34.0684549,
+            "longitude": -118.4387505
+        }
+    },
+    {
+        "name": "Delta Gamma",
+        "coordinates": {
+            "latitude": 34.0680858,
+            "longitude": -118.4387589
+        }
+    },
+    {
+        "name": "Kappa Kappa Gamma",
+        "coordinates": {
+            "latitude": 34.0666289,
+            "longitude": -118.4390802
+        }
+    },
+    {
+        "name": "Chi Omega",
+        "coordinates": {
+            "latitude": 34.0676972,
+            "longitude": -118.4387607
+        }
+    },
+    {
+        "name": "Kappa Alpha Theta",
+        "coordinates": {
+            "latitude": 34.0668775,
+            "longitude": -118.4388975
+        }
+    },
+    {
+        "name": "Alpha Phi",
+        "coordinates": {
+            "latitude": 34.0675065,
+            "longitude": -118.4387631
+        }
+    },
+    {
+        "name": "Engineering IV",
+        "coordinates": {
+            "latitude": 34.0687765,
+            "longitude": -118.4439956
+        }
+    },
+    {
+        "name": "California National Guard",
+        "coordinates": {
+            "latitude": 34.0485953,
+            "longitude": -118.4566925
+        }
+    },
+    {
+        "name": "The Salvation Army Bessie Pregerson Child Care Center",
+        "coordinates": {
+            "latitude": 34.0534975,
+            "longitude": -118.4496683
+        }
+    },
+    {
+        "name": "Stoner Apartment",
+        "coordinates": {
+            "latitude": 34.0425402,
+            "longitude": -118.456878
+        }
+    },
+    {
+        "name": "Pep Boys",
+        "coordinates": {
+            "latitude": 34.0432954,
+            "longitude": -118.4401868
+        }
+    },
+    {
+        "name": "VCA West LA Animal Hospital",
+        "coordinates": {
+            "latitude": 34.0443972,
+            "longitude": -118.441083
+        }
+    },
+    {
+        "name": "Equinox Fitness",
+        "coordinates": {
+            "latitude": 34.0455043,
+            "longitude": -118.4429514
+        }
+    },
+    {
+        "name": "Equinox",
+        "coordinates": {
+            "latitude": 34.0448675,
+            "longitude": -118.4424006
+        }
+    },
+    {
+        "name": "Public Storage",
+        "coordinates": {
+            "latitude": 34.0439113,
+            "longitude": -118.4415689
+        }
+    },
+    {
+        "name": "Distributing Station 28",
+        "coordinates": {
+            "latitude": 34.0449222,
+            "longitude": -118.4437557
+        }
+    },
+    {
+        "name": "Sepulveda West Car Wash",
+        "coordinates": {
+            "latitude": 34.0425159,
+            "longitude": -118.4403075
+        }
+    },
+    {
+        "name": "Best Friends Pet Adoption Center",
+        "coordinates": {
+            "latitude": 34.0444731,
+            "longitude": -118.4426918
+        }
+    },
+    {
+        "name": "Cleopatra",
+        "coordinates": {
+            "latitude": 34.0447204,
+            "longitude": -118.442982
+        }
+    },
+    {
+        "name": "City Dog! Club",
+        "coordinates": {
+            "latitude": 34.0450629,
+            "longitude": -118.4432558
+        }
+    },
+    {
+        "name": "Valvoline",
+        "coordinates": {
+            "latitude": 34.0422157,
+            "longitude": -118.440027
+        }
+    },
+    {
+        "name": "Center West",
+        "coordinates": {
+            "latitude": 34.0596812,
+            "longitude": -118.4425753
+        }
+    },
+    {
+        "name": "The Legacy at Westwood",
+        "coordinates": {
+            "latitude": 34.0599005,
+            "longitude": -118.4411607
+        }
+    },
+    {
+        "name": "Pengelly House",
+        "coordinates": {
+            "latitude": 34.0478859,
+            "longitude": -118.438237
+        }
+    },
+    {
+        "name": "Taka Hair Salon",
+        "coordinates": {
+            "latitude": 34.0487732,
+            "longitude": -118.4362904
+        }
+    },
+    {
+        "name": "Camden Gardens Office Building",
+        "coordinates": {
+            "latitude": 34.047852,
+            "longitude": -118.4422335
+        }
+    },
+    {
+        "name": "Contempo",
+        "coordinates": {
+            "latitude": 34.0448301,
+            "longitude": -118.4415463
+        }
+    },
+    {
+        "name": "Petco",
+        "coordinates": {
+            "latitude": 34.0482806,
+            "longitude": -118.4359368
+        }
+    },
+    {
+        "name": "Siple House",
+        "coordinates": {
+            "latitude": 34.0479855,
+            "longitude": -118.4383665
+        }
+    },
+    {
+        "name": "Durham House",
+        "coordinates": {
+            "latitude": 34.0477714,
+            "longitude": -118.4381477
+        }
+    },
+    {
+        "name": "Council Thrift Shop & Donation Center",
+        "coordinates": {
+            "latitude": 34.0484964,
+            "longitude": -118.4400986
+        }
+    },
+    {
+        "name": "Bentley West",
+        "coordinates": {
+            "latitude": 34.0466488,
+            "longitude": -118.4425676
+        }
+    },
+    {
+        "name": "Beverly Hills Rejuvenation Center",
+        "coordinates": {
+            "latitude": 34.0453622,
+            "longitude": -118.4419585
+        }
+    },
+    {
+        "name": "Blue Wave Car Wash",
+        "coordinates": {
+            "latitude": 34.0496183,
+            "longitude": -118.4360576
+        }
+    },
+    {
+        "name": "BevMo!",
+        "coordinates": {
+            "latitude": 34.0483355,
+            "longitude": -118.4405375
+        }
+    },
+    {
+        "name": "Santa Monica Collision Center",
+        "coordinates": {
+            "latitude": 34.0481086,
+            "longitude": -118.4412292
+        }
+    },
+    {
+        "name": "The Bentley House",
+        "coordinates": {
+            "latitude": 34.0452952,
+            "longitude": -118.4406087
+        }
+    },
+    {
+        "name": "Acacia Residential Building",
+        "coordinates": {
+            "latitude": 34.0703988,
+            "longitude": -118.4497589
+        }
+    },
+    {
+        "name": "Ackerman Union",
+        "coordinates": {
+            "latitude": 34.0703956,
+            "longitude": -118.4442832
+        }
+    },
+    {
+        "name": "Acosta Center",
+        "coordinates": {
+            "latitude": 34.0704301,
+            "longitude": -118.4477485
+        }
+    },
+    {
+        "name": "Ahmanson-Lovelace Brain Mapping Center",
+        "coordinates": {
+            "latitude": 34.0666907,
+            "longitude": -118.4443742
+        }
+    },
+    {
+        "name": "Ashe Student Health Center",
+        "coordinates": {
+            "latitude": 34.071544,
+            "longitude": -118.4448154
+        }
+    },
+    {
+        "name": "Birch Residential Building",
+        "coordinates": {
+            "latitude": 34.0703977,
+            "longitude": -118.4506049
+        }
+    },
+    {
+        "name": "La Kretz Botany Building",
+        "coordinates": {
+            "latitude": 34.066787,
+            "longitude": -118.4411384
+        }
+    },
+    {
+        "name": "Boyer Hall",
+        "coordinates": {
+            "latitude": 34.0681041,
+            "longitude": -118.4417654
+        }
+    },
+    {
+        "name": "Bradley International Hall",
+        "coordinates": {
+            "latitude": 34.0695624,
+            "longitude": -118.4494332
+        }
+    },
+    {
+        "name": "Campbell Hall",
+        "coordinates": {
+            "latitude": 34.0738593,
+            "longitude": -118.4413419
+        }
+    },
+    {
+        "name": "Campus Services Building 1",
+        "coordinates": {
+            "latitude": 34.067457,
+            "longitude": -118.4472784
+        }
+    },
+    {
+        "name": "Campus Services Building 1",
+        "coordinates": {
+            "latitude": 34.0675911,
+            "longitude": -118.4475569
+        }
+    },
+    {
+        "name": "Cedar Residential Building",
+        "coordinates": {
+            "latitude": 34.0709696,
+            "longitude": -118.4498664
+        }
+    },
+    {
+        "name": "Collins Executive Education Center",
+        "coordinates": {
+            "latitude": 34.0735254,
+            "longitude": -118.4444495
+        }
+    },
+    {
+        "name": "Covel Commons (Sunset Village)",
+        "coordinates": {
+            "latitude": 34.0730157,
+            "longitude": -118.4499502
+        }
+    },
+    {
+        "name": "De Neve Commons Building",
+        "coordinates": {
+            "latitude": 34.0703525,
+            "longitude": -118.4501825
+        }
+    },
+    {
+        "name": "Delta Terrace",
+        "coordinates": {
+            "latitude": 34.0732362,
+            "longitude": -118.4511044
+        }
+    },
+    {
+        "name": "Delta Terrace",
+        "coordinates": {
+            "latitude": 34.0729207,
+            "longitude": -118.4512033
+        }
+    },
+    {
+        "name": "Dodd Hall",
+        "coordinates": {
+            "latitude": 34.0727884,
+            "longitude": -118.4392619
+        }
+    },
+    {
+        "name": "Dogwood Residential Building",
+        "coordinates": {
+            "latitude": 34.0709683,
+            "longitude": -118.4504975
+        }
+    },
+    {
+        "name": "Doris Stein Eye Research Center",
+        "coordinates": {
+            "latitude": 34.0645167,
+            "longitude": -118.4445589
+        }
+    },
+    {
+        "name": "Dykstra Hall",
+        "coordinates": {
+            "latitude": 34.0700227,
+            "longitude": -118.4500724
+        }
+    },
+    {
+        "name": "Wasserman Building",
+        "coordinates": {
+            "latitude": 34.0652508,
+            "longitude": -118.4446126
+        }
+    },
+    {
+        "name": "Environment, Health & Safety",
+        "coordinates": {
+            "latitude": 34.0682984,
+            "longitude": -118.4482466
+        }
+    },
+    {
+        "name": "Evergreen Residential Building",
+        "coordinates": {
+            "latitude": 34.0706836,
+            "longitude": -118.4512576
+        }
+    },
+    {
+        "name": "UCLA South Campus Cogen Project",
+        "coordinates": {
+            "latitude": 34.067382,
+            "longitude": -118.4463334
+        }
+    },
+    {
+        "name": "Firgrove Residential Building",
+        "coordinates": {
+            "latitude": 34.0701629,
+            "longitude": -118.4510241
+        }
+    },
+    {
+        "name": "Pritzker Hall",
+        "coordinates": {
+            "latitude": 34.0696371,
+            "longitude": -118.4407605
+        }
+    },
+    {
+        "name": "Franz Hall",
+        "coordinates": {
+            "latitude": 34.0696199,
+            "longitude": -118.4414617
+        }
+    },
+    {
+        "name": "Gardenia Residential Building",
+        "coordinates": {
+            "latitude": 34.0707527,
+            "longitude": -118.452381
+        }
+    },
+    {
+        "name": "Gonda (Goldschmeid) Center",
+        "coordinates": {
+            "latitude": 34.0673582,
+            "longitude": -118.4447416
+        }
+    },
+    {
+        "name": "Haines Hall",
+        "coordinates": {
+            "latitude": 34.0728984,
+            "longitude": -118.4412772
+        }
+    },
+    {
+        "name": "Hedrick Hall",
+        "coordinates": {
+            "latitude": 34.0732895,
+            "longitude": -118.4524109
+        }
+    },
+    {
+        "name": "Hedrick Summit",
+        "coordinates": {
+            "latitude": 34.0739854,
+            "longitude": -118.4525749
+        }
+    },
+    {
+        "name": "Hitch Residential Suites",
+        "coordinates": {
+            "latitude": 34.0736177,
+            "longitude": -118.4538596
+        }
+    },
+    {
+        "name": "Holly Residential Building",
+        "coordinates": {
+            "latitude": 34.070957,
+            "longitude": -118.4518027
+        }
+    },
+    {
+        "name": "Kaplan Hall",
+        "coordinates": {
+            "latitude": 34.0714641,
+            "longitude": -118.4412514
+        }
+    },
+    {
+        "name": "Institute for Pure and Applied Mathematics",
+        "coordinates": {
+            "latitude": 34.0702641,
+            "longitude": -118.4418665
+        }
+    },
+    {
+        "name": "JD Morgan Center",
+        "coordinates": {
+            "latitude": 34.0707787,
+            "longitude": -118.4455201
+        }
+    },
+    {
+        "name": "John Wooden Center",
+        "coordinates": {
+            "latitude": 34.0715621,
+            "longitude": -118.4453725
+        }
+    },
+    {
+        "name": "Jules Stein Eye Institute",
+        "coordinates": {
+            "latitude": 34.0649633,
+            "longitude": -118.4438518
+        }
+    },
+    {
+        "name": "Kaufman Hall",
+        "coordinates": {
+            "latitude": 34.0727708,
+            "longitude": -118.4440763
+        }
+    },
+    {
+        "name": "Kerckhoff Hall",
+        "coordinates": {
+            "latitude": 34.0704384,
+            "longitude": -118.4435383
+        }
+    },
+    {
+        "name": "Kinsey Teaching Pavilion",
+        "coordinates": {
+            "latitude": 34.0701537,
+            "longitude": -118.4412986
+        }
+    },
+    {
+        "name": "Knudsen Hall",
+        "coordinates": {
+            "latitude": 34.0705695,
+            "longitude": -118.4412965
+        }
+    },
+    {
+        "name": "La Kretz Hall",
+        "coordinates": {
+            "latitude": 34.0675577,
+            "longitude": -118.4427086
+        }
+    },
+    {
+        "name": "Rosenfeld Hall",
+        "coordinates": {
+            "latitude": 34.06666,
+            "longitude": -118.4447595
+        }
+    },
+    {
+        "name": "Life Sciences Building",
+        "coordinates": {
+            "latitude": 34.0671376,
+            "longitude": -118.4424613
+        }
+    },
+    {
+        "name": "MacDonald Medical Research Laboratory",
+        "coordinates": {
+            "latitude": 34.0673896,
+            "longitude": -118.4441183
+        }
+    },
+    {
+        "name": "Math Sciences",
+        "coordinates": {
+            "latitude": 34.069544,
+            "longitude": -118.4427836
+        }
+    },
+    {
+        "name": "Manoukian Medical Building",
+        "coordinates": {
+            "latitude": 34.0654703,
+            "longitude": -118.4458709
+        }
+    },
+    {
+        "name": "Goldberg Medical Building",
+        "coordinates": {
+            "latitude": 34.0643266,
+            "longitude": -118.4461016
+        }
+    },
+    {
+        "name": "Moore Hall",
+        "coordinates": {
+            "latitude": 34.0704228,
+            "longitude": -118.4427289
+        }
+    },
+    {
+        "name": "Murphy Hall",
+        "coordinates": {
+            "latitude": 34.0715458,
+            "longitude": -118.4387206
+        }
+    },
+    {
+        "name": "Neuroscience Research Building",
+        "coordinates": {
+            "latitude": 34.0673746,
+            "longitude": -118.4433379
+        }
+    },
+    {
+        "name": "Northwest Campus Auditorium",
+        "coordinates": {
+            "latitude": 34.0718895,
+            "longitude": -118.4504309
+        }
+    },
+    {
+        "name": "Orthopaedic Hospital Research Center",
+        "coordinates": {
+            "latitude": 34.0673342,
+            "longitude": -118.4413142
+        }
+    },
+    {
+        "name": "Parking 1",
+        "coordinates": {
+            "latitude": 34.0651928,
+            "longitude": -118.4472982
+        }
+    },
+    {
+        "name": "Parking 2",
+        "coordinates": {
+            "latitude": 34.0686025,
+            "longitude": -118.4398451
+        }
+    },
+    {
+        "name": "Parking 8",
+        "coordinates": {
+            "latitude": 34.0682695,
+            "longitude": -118.4467424
+        }
+    },
+    {
+        "name": "Parking 9",
+        "coordinates": {
+            "latitude": 34.0680428,
+            "longitude": -118.4437484
+        }
+    },
+    {
+        "name": "Parking DD",
+        "coordinates": {
+            "latitude": 34.0697365,
+            "longitude": -118.4501658
+        }
+    },
+    {
+        "name": "Parking E",
+        "coordinates": {
+            "latitude": 34.0650361,
+            "longitude": -118.442052
+        }
+    },
+    {
+        "name": "Pauley Pavilion",
+        "coordinates": {
+            "latitude": 34.0703799,
+            "longitude": -118.4467546
+        }
+    },
+    {
+        "name": "Morton Medical Building (MP200)",
+        "coordinates": {
+            "latitude": 34.0652065,
+            "longitude": -118.4465295
+        }
+    },
+    {
+        "name": "Ueberroth Building",
+        "coordinates": {
+            "latitude": 34.0640025,
+            "longitude": -118.4469771
+        }
+    },
+    {
+        "name": "Physics & Astronomy Building",
+        "coordinates": {
+            "latitude": 34.0706856,
+            "longitude": -118.4415788
+        }
+    },
+    {
+        "name": "Powell Library",
+        "coordinates": {
+            "latitude": 34.0715674,
+            "longitude": -118.4421788
+        }
+    },
+    {
+        "name": "Rieber Hall",
+        "coordinates": {
+            "latitude": 34.0719518,
+            "longitude": -118.4515222
+        }
+    },
+    {
+        "name": "Rieber Terrace",
+        "coordinates": {
+            "latitude": 34.0725336,
+            "longitude": -118.4521888
+        }
+    },
+    {
+        "name": "Rieber Vista",
+        "coordinates": {
+            "latitude": 34.0719918,
+            "longitude": -118.452284
+        }
+    },
+    {
+        "name": "Rolfe Hall",
+        "coordinates": {
+            "latitude": 34.0738676,
+            "longitude": -118.442121
+        }
+    },
+    {
+        "name": "Royce Hall",
+        "coordinates": {
+            "latitude": 34.0729044,
+            "longitude": -118.4421895
+        }
+    },
+    {
+        "name": "Saxon Residential Suites",
+        "coordinates": {
+            "latitude": 34.0711865,
+            "longitude": -118.4529024
+        }
+    },
+    {
+        "name": "Hitch Residential Suites",
+        "coordinates": {
+            "latitude": 34.0734424,
+            "longitude": -118.4534288
+        }
+    },
+    {
+        "name": "Saxon Residential Suites",
+        "coordinates": {
+            "latitude": 34.0713934,
+            "longitude": -118.4533232
+        }
+    },
+    {
+        "name": "Hitch Residential Suites",
+        "coordinates": {
+            "latitude": 34.0739688,
+            "longitude": -118.4538982
+        }
+    },
+    {
+        "name": "Hitch Residential Suites",
+        "coordinates": {
+            "latitude": 34.0733322,
+            "longitude": -118.4540967
+        }
+    },
+    {
+        "name": "Saxon Residential Suites",
+        "coordinates": {
+            "latitude": 34.0718154,
+            "longitude": -118.4529982
+        }
+    },
+    {
+        "name": "School of Law",
+        "coordinates": {
+            "latitude": 34.0729708,
+            "longitude": -118.4385787
+        }
+    },
+    {
+        "name": "Southern Regional Library Facility",
+        "coordinates": {
+            "latitude": 34.0710266,
+            "longitude": -118.4541965
+        }
+    },
+    {
+        "name": "Sproul Cove",
+        "coordinates": {
+            "latitude": 34.0717023,
+            "longitude": -118.4508818
+        }
+    },
+    {
+        "name": "Sproul Landing",
+        "coordinates": {
+            "latitude": 34.0715259,
+            "longitude": -118.4501591
+        }
+    },
+    {
+        "name": "Strathmore Building",
+        "coordinates": {
+            "latitude": 34.0683007,
+            "longitude": -118.4452149
+        }
+    },
+    {
+        "name": "Student Activities Center (SAC)",
+        "coordinates": {
+            "latitude": 34.0714675,
+            "longitude": -118.4440943
+        }
+    },
+    {
+        "name": "Terasaki Life Sciences Building",
+        "coordinates": {
+            "latitude": 34.0671881,
+            "longitude": -118.4401062
+        }
+    },
+    {
+        "name": "UCLA Police Department",
+        "coordinates": {
+            "latitude": 34.0673203,
+            "longitude": -118.4454254
+        }
+    },
+    {
+        "name": "West Alumni Center",
+        "coordinates": {
+            "latitude": 34.0702078,
+            "longitude": -118.4453956
+        }
+    },
+    {
+        "name": "Wooden West",
+        "coordinates": {
+            "latitude": 34.071539,
+            "longitude": -118.4459264
+        }
+    },
+    {
+        "name": "Engineering V",
+        "coordinates": {
+            "latitude": 34.0694988,
+            "longitude": -118.4437548
+        }
+    },
+    {
+        "name": "Sproul Hall",
+        "coordinates": {
+            "latitude": 34.0720805,
+            "longitude": -118.4499983
+        }
+    },
+    {
+        "name": "Plant Growth Center",
+        "coordinates": {
+            "latitude": 34.0662937,
+            "longitude": -118.4402906
+        }
+    },
+    {
+        "name": "The Rochester",
+        "coordinates": {
+            "latitude": 34.056074,
+            "longitude": -118.4445079
+        }
+    },
+    {
+        "name": "Church of Saint Paul the Apostle",
+        "coordinates": {
+            "latitude": 34.0558596,
+            "longitude": -118.4370483
+        }
+    },
+    {
+        "name": "St. Paul the Apostle Parish Center",
+        "coordinates": {
+            "latitude": 34.0554928,
+            "longitude": -118.4376582
+        }
+    },
+    {
+        "name": "St. Paul the Apostle Rectory",
+        "coordinates": {
+            "latitude": 34.055724,
+            "longitude": -118.4374185
+        }
+    },
+    {
+        "name": "Hide Sushi",
+        "coordinates": {
+            "latitude": 34.0401579,
+            "longitude": -118.4427248
+        }
+    },
+    {
+        "name": "The Jeremy",
+        "coordinates": {
+            "latitude": 34.0422177,
+            "longitude": -118.4443281
+        }
+    },
+    {
+        "name": "The Longford",
+        "coordinates": {
+            "latitude": 34.059547,
+            "longitude": -118.4392957
+        }
+    },
+    {
+        "name": "Flame International",
+        "coordinates": {
+            "latitude": 34.045942,
+            "longitude": -118.4492725
+        }
+    },
+    {
+        "name": "VirMach",
+        "coordinates": {
+            "latitude": 34.0471564,
+            "longitude": -118.4485985
+        }
+    },
+    {
+        "name": "Felicia Mahood Multipurpose Senior Center",
+        "coordinates": {
+            "latitude": 34.0457205,
+            "longitude": -118.4495962
+        }
+    },
+    {
+        "name": "West Los Angeles Regional Branch Los Angeles Public Library",
+        "coordinates": {
+            "latitude": 34.0456773,
+            "longitude": -118.4501857
+        }
+    },
+    {
+        "name": "Bank of America",
+        "coordinates": {
+            "latitude": 34.0457184,
+            "longitude": -118.4523926
+        }
+    },
+    {
+        "name": "Colony Cooks",
+        "coordinates": {
+            "latitude": 34.0459184,
+            "longitude": -118.4514903
+        }
+    },
+    {
+        "name": "West Los Angeles Finance Station Los Angeles Post Office",
+        "coordinates": {
+            "latitude": 34.0453503,
+            "longitude": -118.4512698
+        }
+    },
+    {
+        "name": "Veteran Apartments",
+        "coordinates": {
+            "latitude": 34.0531822,
+            "longitude": -118.4442532
+        }
+    },
+    {
+        "name": "World Express",
+        "coordinates": {
+            "latitude": 34.0489829,
+            "longitude": -118.4410875
+        }
+    },
+    {
+        "name": "Westwood Recreation Center",
+        "coordinates": {
+            "latitude": 34.0532456,
+            "longitude": -118.4480786
+        }
+    },
+    {
+        "name": "Westwood Galleria",
+        "coordinates": {
+            "latitude": 34.0527501,
+            "longitude": -118.4438643
+        }
+    },
+    {
+        "name": "Starbucks",
+        "coordinates": {
+            "latitude": 34.0475811,
+            "longitude": -118.4452624
+        }
+    },
+    {
+        "name": "Georgia Manor",
+        "coordinates": {
+            "latitude": 34.0426738,
+            "longitude": -118.4555399
+        }
+    },
+    {
+        "name": "Los Angeles Department of Public Health",
+        "coordinates": {
+            "latitude": 34.0401452,
+            "longitude": -118.4374112
+        }
+    },
+    {
+        "name": "Broxton Plaza",
+        "coordinates": {
+            "latitude": 34.0634078,
+            "longitude": -118.447325
+        }
+    },
+    {
+        "name": "Ulta Beauty",
+        "coordinates": {
+            "latitude": 34.0605937,
+            "longitude": -118.4464996
+        }
+    },
+    {
+        "name": "Janss Dome",
+        "coordinates": {
+            "latitude": 34.0600394,
+            "longitude": -118.4439767
+        }
+    },
+    {
+        "name": "Janss Dome",
+        "coordinates": {
+            "latitude": 34.0613228,
+            "longitude": -118.4457872
+        }
+    },
+    {
+        "name": "The Gayley Building",
+        "coordinates": {
+            "latitude": 34.0608256,
+            "longitude": -118.4466748
+        }
+    },
+    {
+        "name": "UCLA Extension Lindbrook Center",
+        "coordinates": {
+            "latitude": 34.0592484,
+            "longitude": -118.4450405
+        }
+    },
+    {
+        "name": "Westwood's Village Square",
+        "coordinates": {
+            "latitude": 34.0600537,
+            "longitude": -118.4454595
+        }
+    },
+    {
+        "name": "CVS Pharmacy",
+        "coordinates": {
+            "latitude": 34.0623598,
+            "longitude": -118.4457379
+        }
+    },
+    {
+        "name": "UCLA Health Real Estate, Planning, Design & Construction",
+        "coordinates": {
+            "latitude": 34.0634472,
+            "longitude": -118.4459824
+        }
+    },
+    {
+        "name": "In-N-Out Burger",
+        "coordinates": {
+            "latitude": 34.0630961,
+            "longitude": -118.4480257
+        }
+    },
+    {
+        "name": "Ralphs Grocery Store",
+        "coordinates": {
+            "latitude": 34.0599627,
+            "longitude": -118.444409
+        }
+    },
+    {
+        "name": "Claremont Hotel",
+        "coordinates": {
+            "latitude": 34.0608226,
+            "longitude": -118.4427689
+        }
+    },
+    {
+        "name": "Citibank",
+        "coordinates": {
+            "latitude": 34.0611935,
+            "longitude": -118.4451246
+        }
+    },
+    {
+        "name": "The Glendon",
+        "coordinates": {
+            "latitude": 34.0618706,
+            "longitude": -118.4444888
+        }
+    },
+    {
+        "name": "Royal Palace Westwood",
+        "coordinates": {
+            "latitude": 34.0606225,
+            "longitude": -118.4428239
+        }
+    },
+    {
+        "name": "LAFD Station #37",
+        "coordinates": {
+            "latitude": 34.0598203,
+            "longitude": -118.4489651
+        }
+    },
+    {
+        "name": "Parking 32",
+        "coordinates": {
+            "latitude": 34.0599558,
+            "longitude": -118.4477681
+        }
+    },
+    {
+        "name": "West Medical Steam Plant",
+        "coordinates": {
+            "latitude": 34.0610053,
+            "longitude": -118.4482274
+        }
+    },
+    {
+        "name": "Saint Sebastian's Rectory",
+        "coordinates": {
+            "latitude": 34.0459381,
+            "longitude": -118.4553505
+        }
+    },
+    {
+        "name": "Saint Sebastian Catholic Church",
+        "coordinates": {
+            "latitude": 34.0464205,
+            "longitude": -118.4559317
+        }
+    },
+    {
+        "name": "Mobil Mart",
+        "coordinates": {
+            "latitude": 34.0501703,
+            "longitude": -118.4368884
+        }
+    },
+    {
+        "name": "Beverly Hills Porsche Service and Parts Center",
+        "coordinates": {
+            "latitude": 34.0496059,
+            "longitude": -118.4390284
+        }
+    },
+    {
+        "name": "Starbucks",
+        "coordinates": {
+            "latitude": 34.0541079,
+            "longitude": -118.4403578
+        }
+    },
+    {
+        "name": "New Vista Post-Acute Care Center",
+        "coordinates": {
+            "latitude": 34.0480022,
+            "longitude": -118.4493109
+        }
+    },
+    {
+        "name": "Kinross Recreation Center",
+        "coordinates": {
+            "latitude": 34.0588997,
+            "longitude": -118.448153
+        }
+    },
+    {
+        "name": "Jiffy Lube",
+        "coordinates": {
+            "latitude": 34.0488235,
+            "longitude": -118.4417272
+        }
+    },
+    {
+        "name": "Mo Ostin Basketball Center",
+        "coordinates": {
+            "latitude": 34.0693859,
+            "longitude": -118.4482389
+        }
+    },
+    {
+        "name": "Saxon Commons",
+        "coordinates": {
+            "latitude": 34.0714264,
+            "longitude": -118.452789
+        }
+    },
+    {
+        "name": "Wasserman Football Center",
+        "coordinates": {
+            "latitude": 34.069375,
+            "longitude": -118.4475314
+        }
+    },
+    {
+        "name": "UCLA Parking Information Kiosk Westwood Plaza",
+        "coordinates": {
+            "latitude": 34.068139,
+            "longitude": -118.4449831
+        }
+    },
+    {
+        "name": "The SW",
+        "coordinates": {
+            "latitude": 34.0410119,
+            "longitude": -118.4442504
+        }
+    },
+    {
+        "name": "Notting Hill",
+        "coordinates": {
+            "latitude": 34.0424646,
+            "longitude": -118.4445534
+        }
+    },
+    {
+        "name": "Regent's Park",
+        "coordinates": {
+            "latitude": 34.0427802,
+            "longitude": -118.4448153
+        }
+    },
+    {
+        "name": "Clinical Research",
+        "coordinates": {
+            "latitude": 34.066031,
+            "longitude": -118.4420442
+        }
+    },
+    {
+        "name": "Centennial Hall",
+        "coordinates": {
+            "latitude": 34.0729362,
+            "longitude": -118.4538648
+        }
+    },
+    {
+        "name": "Olympic Hall",
+        "coordinates": {
+            "latitude": 34.0723793,
+            "longitude": -118.4536219
+        }
+    },
+    {
+        "name": "Southwest Campus Apartments",
+        "coordinates": {
+            "latitude": 34.0630597,
+            "longitude": -118.4500847
+        }
+    },
+    {
+        "name": "Southwest Campus Apartments",
+        "coordinates": {
+            "latitude": 34.0627392,
+            "longitude": -118.450574
+        }
+    },
+    {
+        "name": "Southwest Campus Apartments",
+        "coordinates": {
+            "latitude": 34.062365,
+            "longitude": -118.4498712
+        }
+    },
+    {
+        "name": "UCLA Botanical Garden Shadehouse North",
+        "coordinates": {
+            "latitude": 34.0660057,
+            "longitude": -118.4404047
+        }
+    },
+    {
+        "name": "UCLA Botanical Garden Shadehouse South",
+        "coordinates": {
+            "latitude": 34.0659531,
+            "longitude": -118.4404636
+        }
+    },
+    {
+        "name": "La Kretz Garden Pavillion",
+        "coordinates": {
+            "latitude": 34.0667456,
+            "longitude": -118.4415298
+        }
+    },
+    {
+        "name": "Sproul Hall",
+        "coordinates": {
+            "latitude": 34.0725481,
+            "longitude": -118.4501917
+        }
+    },
+    {
+        "name": "Bob Hope Veterans Chapel",
+        "coordinates": {
+            "latitude": 34.0606488,
+            "longitude": -118.4550446
+        }
+    },
+    {
+        "name": "Administration Building",
+        "coordinates": {
+            "latitude": 34.0607627,
+            "longitude": -118.4551625
+        }
+    },
+    {
+        "name": "Gayley Heights",
+        "coordinates": {
+            "latitude": 34.0639639,
+            "longitude": -118.4488293
+        }
+    },
+    {
+        "name": "Bond Street",
+        "coordinates": {
+            "latitude": 34.0439019,
+            "longitude": -118.4457962
+        }
+    },
+    {
+        "name": "ABM",
+        "coordinates": {
+            "latitude": 34.0466812,
+            "longitude": -118.4483869
+        }
+    },
+    {
+        "name": "UCLA MakerSpace",
+        "coordinates": {
+            "latitude": 34.0725942,
+            "longitude": -118.4535668
+        }
+    },
+    {
+        "name": "John V. Tunney Bridge",
+        "coordinates": {
+            "latitude": 34.0594566,
+            "longitude": -118.4437571
+        }
+    },
+    {
+        "name": "Tacos Super Gallito",
+        "coordinates": {
+            "latitude": 34.0493868,
+            "longitude": -118.4362656
+        }
+    }
+]
